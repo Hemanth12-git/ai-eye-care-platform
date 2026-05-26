@@ -160,7 +160,7 @@ function VapiWidget() {
                   alt="AI Eye Care Assistant"
                   width={80}
                   height={80}
-                  className="w-20 h-20 object-contain"
+                  className="w-20 h-27 object-contain"
                 />
               </div>
             </div>
